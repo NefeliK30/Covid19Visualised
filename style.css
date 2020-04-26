@@ -1,0 +1,59 @@
+body {
+  font-family:  system-ui;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  margin-right: 220px;
+  margin-left: 220px;
+  line-height: 1.7;
+  text-align: justify;
+}
+
+img.rounded-corners {
+  border-radius: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: 42%;
+  width: 15%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: system-ui;
+}
+
+.cool{
+  text-align: center;
+  font-family: system-ui;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.social-icons {
+  text-align: center;
+  }
+
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+
+.social-icons li a {
+  border-bottom: none;
+  }
+
+.social-icons li img {
+  width:20px;
+  height:20px;
+  margin-right: 20px;
+  margin-left: -15px;
+}
